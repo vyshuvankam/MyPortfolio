@@ -14,13 +14,6 @@ This portfolio showcases my skills, projects, certifications, and achievements. 
 
 ---
 
-# 📄 Resume
-
-Download my latest resume here:
-
-📌 **Resume:** *("C:\Users\vyshu\Downloads\VANKAM_VYSHNAVI.pdf")*
-
----
 
 # 💻 Technologies Used
 
@@ -43,7 +36,6 @@ Download my latest resume here:
 * About Me Section
 * Skills Showcase
 * Project Gallery
-* Resume Download
 * Contact Information
 * Social Media Links
 
@@ -85,7 +77,7 @@ A Java application for creating, assigning, updating, and resolving support tick
 
 # 🎯 Career Objective
 
-Seeking an entry-level Software Developer position where I can apply my Java Full Stack, SQL, React.js, Node.js, and problem-solving skills while contributing to innovative projects and continuously growing as a software engineer.
+Seeking an entry-level Software Developer position where I can apply my Java Full Stack, SQL, React.js, Python, and problem-solving skills while contributing to innovative projects and continuously growing as a software engineer.
 
 ---
 
