@@ -20,12 +20,6 @@ This portfolio showcases my skills, projects, certifications, and achievements. 
 * HTML5
 * CSS3
 * JavaScript
-* React.js
-* Python
-* Java
-* SQL (MySQL)
-* Git & GitHub
-* AWS (Basics)
 
 ---
 
@@ -77,7 +71,7 @@ A Java application for creating, assigning, updating, and resolving support tick
 
 # 🎯 Career Objective
 
-Seeking an entry-level Software Developer position where I can apply my Java Full Stack, SQL, React.js, Python, and problem-solving skills while contributing to innovative projects and continuously growing as a software engineer.
+Seeking an entry-level Software Developer position where I can apply my Java Full Stack, SQL, and problem-solving skills while contributing to innovative projects and continuously growing as a software engineer.
 
 ---
 
